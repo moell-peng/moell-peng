@@ -1,10 +1,10 @@
 ### Hello 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moell-peng&layout=compact&show_icons=true&line_height=24&&hide_border=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moell-peng&layout=compact&show_icons=true&line_height=24&card_width=206&hide_border=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alian="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=moell-peng&layout=compact&langs_count=8&card_width=286&hide_border=true"/>
+  <img alian="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=moell-peng&layout=compact&langs_count=8&card_width=246&hide_border=true"/>
 </a>
 
 
